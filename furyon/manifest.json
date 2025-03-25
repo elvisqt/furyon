@@ -6,7 +6,7 @@
     "website": "https://code-path.com/",
     "min_required_version": "8.0.0",
 
-    "favicon": "../assets/images/favicon.ico",
+    "favicon": "../assets/images/logo.ico",
 
     "small_avatar": "../assets/images/avatars/0_small.jpg",
     "normal_avatar": "../assets/images/avatars/0_normal.jpg",

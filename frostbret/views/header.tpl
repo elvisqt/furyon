@@ -33,7 +33,7 @@
 		<meta name="twitter:image" content="{$url}application/images/misc/preview-thumbnail.png">
 		<meta name="twitter:site" content="@{$social_media['twitter']}">
 
-		<link href="{if $cdn_link != false}{$cdn_link}{$theme_path}{else}{$full_theme_path}{/if}assets/images/favicon.ico" rel="shortcut icon">
+		<link href="{if $cdn_link != false}{$cdn_link}{$theme_path}{else}{$full_theme_path}{/if}assets/images/logo.ico" rel="shortcut icon">
 
 		<!-- Header CSS.Start -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i&display=swap">

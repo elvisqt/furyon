@@ -7,7 +7,7 @@
 	
 	"min_required_version": "8.0.0",
 
-	"favicon": "../assets/images/favicon.ico",
+	"favicon": "../assets/images/logo.ico",
 
 	"normal_avatar": "avatars/0_normal.jpg",
 	"small_avatar": "avatars/0_small.jpg",
