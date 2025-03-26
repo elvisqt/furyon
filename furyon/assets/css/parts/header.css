@@ -250,7 +250,7 @@
 /* Header: Navbar: Brand
 /*-----------------------------------------------------*/
 .header .navbar .navbar-brand {
-	--brand-width: 100px;
+	--brand-width: 77px;
 	--brand-height: 77px;
 
 	width: var(--brand-width);
